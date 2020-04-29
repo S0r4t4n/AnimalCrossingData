@@ -1,0 +1,284 @@
+﻿[
+  {
+    "complete_image": "images/Tレックス.png",
+    "name": "Tレックス",
+    "parts": [
+      "Tレックスのあたま",
+      "Tレックスのからだ",
+      "Tレックスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/アーケロン.png",
+    "name": "アーケロン",
+    "parts": [
+      "アーケロンのあたま",
+      "アーケロンのからだ"
+    ]
+  },
+  {
+    "complete_image": "images/アウストラロピテクス.png",
+    "name": "アウストラロピテクス",
+    "parts": [
+      "アウストラロピテクス"
+    ]
+  },
+  {
+    "complete_image": "images/アカントステガ.png",
+    "name": "アカントステガ",
+    "parts": [
+      "アカントステガ"
+    ]
+  },
+  {
+    "complete_image": "images/あしあと.png",
+    "name": "あしあと",
+    "parts": [
+      "あしあとのかせき"
+    ]
+  },
+  {
+    "complete_image": "images/アノマロカリス.png",
+    "name": "アノマロカリス",
+    "parts": [
+      "アノマロカリス"
+    ]
+  },
+  {
+    "complete_image": "images/アンキロサウルス.png",
+    "name": "アンキロサウルス",
+    "parts": [
+      "アンキロサウルスのあたま",
+      "アンキロサウルスのからだ",
+      "アンキロサウルスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/イグアノドン.png",
+    "name": "イグアノドン",
+    "parts": [
+      "イグアノドンのあたま",
+      "イグアノドンのからだ",
+      "イグアノドンのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/ウンコ.png",
+    "name": "ウンコ",
+    "parts": [
+      "ウンコのかせき"
+    ]
+  },
+  {
+    "complete_image": "images/オフタモサウルス.png",
+    "name": "オフタモサウルス",
+    "parts": [
+      "オフタモサウルスのあたま",
+      "オフタモサウルスのからだ"
+    ]
+  },
+  {
+    "complete_image": "images/ケツァルコアトルス.png",
+    "name": "ケツァルコアトルス",
+    "parts": [
+      "ケツァルコアトルスのあたま",
+      "ケツァルコアトルスのうよく",
+      "ケツァルコアトルスのさよく"
+    ]
+  },
+  {
+    "complete_image": "images/コハク.png",
+    "name": "コハク",
+    "parts": [
+      "コハク"
+    ]
+  },
+  {
+    "complete_image": "images/さんようちゅう.png",
+    "name": "さんようちゅう",
+    "parts": [
+      "さんようちゅう"
+    ]
+  },
+  {
+    "complete_image": "images/しそちょう.png",
+    "name": "しそちょう",
+    "parts": [
+      "しそちょう"
+    ]
+  },
+  {
+    "complete_image": "images/ジュラマイア.png",
+    "name": "ジュラマイア",
+    "parts": [
+      "ジュラマイア"
+    ]
+  },
+  {
+    "complete_image": "images/ステゴザウルス.png",
+    "name": "ステゴザウルス",
+    "parts": [
+      "ステゴザウルスのあたま",
+      "ステゴザウルスのからだ",
+      "ステゴザウルスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/スピノサウルス.png",
+    "name": "スピノサウルス",
+    "parts": [
+      "スピノサウルスのあたま",
+      "スピノサウルスのからだ",
+      "スピノサウルスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/スミロドン.png",
+    "name": "スミロドン",
+    "parts": [
+      "スミロドンのあたま",
+      "スミロドンのからだ"
+    ]
+  },
+  {
+    "complete_image": "images/ダンクルオステウス.png",
+    "name": "ダンクルオステウス",
+    "parts": [
+      "ダンクルオステウス"
+    ]
+  },
+  {
+    "complete_image": "images/ディノニクス.png",
+    "name": "ディノニクス",
+    "parts": [
+      "ディノニクスのあたま",
+      "ディノニクスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/ディプロドクス.png",
+    "name": "ディプロドクス",
+    "parts": [
+      "ディプロドクスのあたま",
+      "ディプロドクスのくび",
+      "ディプロドクスのこし",
+      "ディプロドクスのしっぽ",
+      "ディプロドクスのしっぽのさき",
+      "ディプロドクスのむね"
+    ]
+  },
+  {
+    "complete_image": "images/ディメトロドン.png",
+    "name": "ディメトロドン",
+    "parts": [
+      "ディメトロドンのあたま"
+    ]
+  },
+  {
+    "complete_image": "images/トリケラトプス.png",
+    "name": "トリケラトプス",
+    "parts": [
+      "トリケラトプスのあたま",
+      "トリケラトプスのからだ",
+      "トリケラトプスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/パキケファロ.png",
+    "name": "パキケファロ",
+    "parts": [
+      "パキケファロのあたま",
+      "パキケファロのからだ"
+    ]
+  },
+  {
+    "complete_image": "images/パラサウロロフス.png",
+    "name": "パラサウロロフス",
+    "parts": [
+      "パラサウロロフスのあたま",
+      "パラサウロロフスのからだ",
+      "パラサウロロフスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/フタバサウルス.png",
+    "name": "フタバサウルス",
+    "parts": [
+      "フタバサウルスのあたま",
+      "フタバサウルスのからだ",
+      "フタバサウルスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/プテラノドン.png",
+    "name": "プテラノドン",
+    "parts": [
+      "プテラノドンのあたま",
+      "プテラノドンのうよく",
+      "プテラノドンのさよく"
+    ]
+  },
+  {
+    "complete_image": "images/ブラキオサウルス.png",
+    "name": "ブラキオサウルス",
+    "parts": [
+      "ブラキオサウルスのあたま",
+      "ブラキオサウルスのこし",
+      "ブラキオサウルスのしっぽ",
+      "ブラキオサウルスのむね"
+    ]
+  },
+  {
+    "complete_image": "images/マンモス.png",
+    "name": "マンモス",
+    "parts": [
+      "マンモスのあたま",
+      "マンモスのからだ"
+    ]
+  },
+  {
+    "complete_image": "images/ミロクンミンギア.png",
+    "name": "ミロクンミンギア",
+    "parts": [
+      "ミロクンミンギア"
+    ]
+  },
+  {
+    "complete_image": "images/メガセロプス.png",
+    "name": "メガセロプス",
+    "parts": [
+      "メガセロプスのあたま",
+      "メガセロプスのからだ",
+      "メガセロプスのしっぽ"
+    ]
+  },
+  {
+    "complete_image": "images/ユーステノプテロン.png",
+    "name": "ユーステノプテロン",
+    "parts": [
+      "ユーステノプテロン"
+    ]
+  },
+  {
+    "complete_image": "images/アンモナイト.png",
+    "name": "アンモナイト",
+    "parts": [
+      "アンモナイト"
+    ]
+  },
+  {
+    "complete_image": "images/サメのは.png",
+    "name": "サメのは",
+    "parts": [
+      "サメのはのかせき"
+    ]
+  },
+  {
+    "complete_image": "images/メガロケロス.png",
+    "name": "メガロケロス",
+    "parts": [
+      "メガロケロスのひだりはんしん",
+      "メガロケロスのみぎはんしん"
+    ]
+  }
+]
